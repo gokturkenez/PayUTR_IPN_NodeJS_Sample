@@ -1,7 +1,7 @@
 /*
 Author: Gokturk Enez
 Mail: hi@gokturkenez.com.tr
-Description: PayU Turkey ALU v3 Node JS Sample Code
+Description: PayU Turkey IPN Node JS Sample Code
 */
 var express = require('express'),
     app = express(),
